@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 卡片创作谈：读书卡片写得越多，反而不会写读书了？
+title: 卡片创作谈：读书卡片写得越多，反而不会读书了？
 date: 2017-06-04
 categories: blog
 tags: [卡片,读书]
