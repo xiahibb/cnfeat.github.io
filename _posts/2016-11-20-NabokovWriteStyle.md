@@ -7,6 +7,12 @@ tags: [纳博科夫,卡片]
 description: 写作是将网状的思想，通过树状的句法，组织为线状展开的文字。
 ---
 
+这篇文章的图片可能挂了，请点击以下链接阅读：
+
+- [如何卡片创作之西蒙篇](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639213&idx=1&sn=aaacd51149adb15d9e567ee472f4cef3&chksm=879dc042b0ea4954c8db1d82a5bc6770acc00d476d24a14074eaf5d2268ddb9dba8197e286d1#rd)
+- [像纳博科夫一样写作：卡片创作法](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639168&idx=1&sn=a612b22c336488479b91505978feab40&chksm=879dc06fb0ea497984d5760371bd8e5c0e6b050a8237c7859f48bdc72141650eab719eb6e7f5#rd)
+
+
 ## 引子
 
 日本著名诗人、小说家高桥源一郎（TakahashiGenyitiro）曾把纳博科夫和博尔赫斯、卡尔维诺、温贝尔特·艾科等作家并列，称他们「**无论在技法上，还是在理论上，他们分明都是在文学的最前沿进行创作的作家。**」
