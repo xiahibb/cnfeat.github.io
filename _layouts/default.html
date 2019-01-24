@@ -25,6 +25,51 @@
 
 </script>
 
+<!-- Bruce edited -->
+<div id="back-top">
+  <a href="#" data-toggle="tooltip" data-placement="top" title="top">
+  <i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </a>
+</div>
+<script>
+	$('#back-top').hide();
+	$(document).ready(function () {
+	$(window).scroll(function () {
+    if ($(this).scrollTop() > 250) {
+      $('#back-top').fadeIn();
+    } else {
+      $('#back-top').fadeOut();
+    }
+  });
+  $('#back-top a').click(function () {
+    $('body,html').animate({
+      scrollTop: 0
+    }, 800);
+    return false;
+  });
+});
+</script>
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
+<script>
+    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js",function(){
+        anchors.options.placement = 'right';
+        anchors.add('h2,h3');
+        anchors.remove('.subheading');
+    })
+</script>
+
 </body>
 
 </html>
