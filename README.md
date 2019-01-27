@@ -23,13 +23,16 @@
 
 
 
-
+- 2019-01-27
+	+ # Gitment 踩坑备忘：
+	+ repo 名字而不是地址
+	+ GitHub name 大小写，有大小写的，建议全部改成小写
+	+ [出现 Object ProgressEvent，解决gitment无法登陆评论问题（Object ProgressEvent）](https://blog.csdn.net/wardseptember/article/details/82828391)
 - 20160719 
 	+ 改动网页文字宽度
 		+ post.html 39
 		+ col-lg-7 col-lg-offset-3 col-md-8 col-md-offset-2 post-container
 	+ about 链接颜色
-
 - 20160717 博客优化
 	- 增加 Google Analytics
 	* 修订 Gavatar 地址
