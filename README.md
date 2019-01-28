@@ -24,7 +24,7 @@
 
 
 - 2019-01-27
-	+ # Gitment 踩坑备忘：
+	+ Gitment 踩坑备忘：
 	+ repo 名字而不是地址
 	+ GitHub name 大小写，有大小写的，建议全部改成小写
 	+ [出现 Object ProgressEvent，解决gitment无法登陆评论问题（Object ProgressEvent）](https://blog.csdn.net/wardseptember/article/details/82828391)
